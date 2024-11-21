@@ -18,7 +18,7 @@
 
 ### Англоязычные статьи
 
-- [RSpec — фреймворк для тестирования в Ruby](https://habr.com/ru/post/350387/) — Хабр
+- [Deploying production, staging and review apps environments automatically with Kamal on CI/CD](https://guillaumebriday.fr/deploying-review-apps-automatically-with-kamal-on-ci-cd) — Хабр
 
 
 ## 3. Избранные курсы
