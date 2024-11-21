@@ -11,25 +11,26 @@
 
 ## 2. Избранные статьи (ЕЩЕ БУДУ ДОПОЛНЯТЬ)
 
-- [Почему твоя мама ещё не прогает?](https://habr.com/ru/post/220093/) — Хабр
 - [Почему я рекомендую Ruby on Rails новичкам в 2024 году?](https://habr.com/ru/articles/794476/) - Хабр
 - [В Ruby появилась поддержка WebAssemblу: что это значит?](https://habr.com/ru/companies/skillfactory/articles/717130/) - Хабр
 
 
 ### Англоязычные статьи
 
-- [Deploying production, staging and review apps environments automatically with Kamal on CI/CD](https://guillaumebriday.fr/deploying-review-apps-automatically-with-kamal-on-ci-cd) — Хабр
+- [Deploying production, staging and review apps environments automatically with Kamal on CI/CD](https://guillaumebriday.fr/deploying-review-apps-automatically-with-kamal-on-ci-cd)
+- [How I use OpenAI to translate my Rails application into multiple languages](https://guillaumebriday.fr/how-i-use-openai-to-translate-my-rails-application-into-multiple-languages)
 
 
 ## 3. Избранные курсы
 
-- [Погружение в Ruby](https://www.udemy.com/course/ruby-for-beginners/) — Udemy
-- [SQL для начинающих](https://www.coursera.org/specializations/learn-sql-basics-data-science) — Coursera
-- [PostgreSQL](https://www.udemy.com/course/postgresql-the-complete-developers-guide/) — Udemy
-- [Advanced Ruby](https://www.pluralsight.com/courses/advanced-ruby) — Pluralsight
-- [Ruby высокого качества](https://www.pluralsight.com/authors/robert-smallshire) — Pluralsight
-- [Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/) — Udemy
-- [Онлайн-тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU) — Learn Git Branching
+- [Путь Rubyrush. Море классных задач](https://rubyrush.ru/steps) - Rubyrush
+- [Ruby/Rails Concepts and course](https://www.codecademy.com/resources/docs/ruby) — Codecademy
+- [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) — The Odin Project
+- [Ruby - первое знакомство](https://stepik.org/course/87996/syllabus?search=5931636595) — Stepic
+- [GoRails - классные видео уроки про Rails](https://gorails.com/series) — GoRails
+- [x]
+- [ ] 
+
 
 ## 4. Избранные книги
 
