@@ -12,9 +12,11 @@
 ## 2. Избранные статьи (ЕЩЕ БУДУ ДОПОЛНЯТЬ)
 
 - [Почему твоя мама ещё не прогает?](https://habr.com/ru/post/220093/) — Хабр
+- [Почему я рекомендую Ruby on Rails новичкам в 2024 году?](https://habr.com/ru/articles/794476/) - Хабр
+- [В Ruby появилась поддержка WebAssemblу: что это значит?](https://habr.com/ru/companies/skillfactory/articles/717130/) - Хабр
 
 
-### Переводы на Хабр по технологиям
+### Англоязычные статьи
 
 - [RSpec — фреймворк для тестирования в Ruby](https://habr.com/ru/post/350387/) — Хабр
 
@@ -43,6 +45,7 @@
 - [https://codeforces.com/](https://codeforces.com/)
 - [https://codewars.com/](https://codewars.com/)
 - [https://leetcode.com/](https://leetcode.com/)
+- [https://replit.com/](https://replit.com/)
 
 ## 7. Вопросы, часто встречающиеся на собеседованиях
 
