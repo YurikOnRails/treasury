@@ -1,6 +1,7 @@
 # Манифест
 
-## 1. Учеба и работа
+##  Принципы самообучения
+
 - Учиться нужно **асинхронно**: не стоит хвататься за одну большую тему, как изучение всего Ruby или всей теории баз данных. Лучше набирать из разных направлений понемногу — немного Ruby, немного SQL и так далее.
 - Освоить работу с **Git**, **отладчиком** (Debugger) и научиться писать простейшие тесты.
 - Заниматься **регулярно**! Лучше заниматься меньше, но чаще, чем редко, но много.
@@ -8,6 +9,22 @@
 - Соблюдать режим труда и отдыха. Это важно для продуктивности.
 - Не бояться просить помощи в случае затруднений. Если сталкиваетесь с проблемой, которую не можете решить за разумное время — не стесняйтесь обратиться за помощью.
 - Если учеба «не лезет» — сделайте небольшой перерыв.
+
+## 0. БАЗА. Альма-матер pro Rails dev
+  
+- [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - ruby-doc.org
+- [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - rubyonrails.org
+- [Rails API Documentation - подробное описание всех классов и методов в Rails.](https://api.rubyonrails.org/) - api.rubyonrails.org
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - developer.mozilla.org
+- [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) - Топ frontend фреймворки и библиотеки
+- [PostgreSQL](https://www.postgresql.org/docs/current/), [Redis](https://redis.io/docs/latest/) - Топ БД
+- 
+
+- 
+## 1. Для  Indie Hacker or MVP pro Rails dev
+
+
+
 
 ## 2. Избранные статьи (ЕЩЕ БУДУ ДОПОЛНЯТЬ)
 
@@ -23,18 +40,21 @@
 
 ## 3. Избранные курсы
 
-- [Путь Rubyrush. Море классных задач](https://rubyrush.ru/steps) - Rubyrush
+- [Путь Rubyrush. Море интересных задач](https://rubyrush.ru/steps) - Rubyrush
 - [Ruby/Rails Concepts and course](https://www.codecademy.com/resources/docs/ruby) — Codecademy
 - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) — The Odin Project
 - [Ruby - первое знакомство](https://stepik.org/course/87996/syllabus?search=5931636595) — Stepic
-- [GoRails - классные видео уроки про Rails](https://gorails.com/series) — GoRails
-- [x]
-- [ ] 
+- [GoRails - полезные видео уроки про Rails](https://gorails.com/series) — GoRails (paid monthly subscription)
+- [Крайне любопытный проект для изучения языка для опытных юзеров](https://www.rubykoans.com/) — Ruby Koans
+- [Курсы от hexlet.io](https://ru.hexlet.io/courses_ruby) - Hexlet (paid monthly subscription)
 
 
 ## 4. Избранные книги
 
-- **Ч. Петцольд** — *Код. Тайный язык информатики* — базовая книга для понимания того, как работают компьютеры.
+- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
+- ** Sandi Metz** — *PRACTICAL OBJECT-ORIENTED DESIGN IN RUBY* — про объектное проектирование приложений
+- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
+- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
 
 
 ## 5. Избранные видео
