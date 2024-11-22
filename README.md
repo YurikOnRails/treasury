@@ -36,6 +36,7 @@
 - Безопасность в Rails Apps: [официальная документация ](https://guides.rubyonrails.org/security.html#introduction) и сторонняя - [Security Audit Checklist 2025](https://blog.railsforgedev.com/ruby-on-rails-security-audit-checklist-2025-free-template)
 - [GitHub Actions documentation](https://docs.github.com/en/actions) - автоматизация CI/CD иными словами деплой
 
+  
 ## 1. Для  IndieHacker/MVP pro Rails dev
 
 - [Kamal 2 for Rails 8](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
@@ -47,10 +48,11 @@
 - [TailwindCSS](https://tailwindcss.com/docs/installation) - для быстрого и красивого фронтенда MVP
 
 
-## 1. Лучшие гемы для Rails apps
+## 1. Лучшие гемы для Rails apps БУДУ ЕЩЕ ДОПОЛНЯТЬ
 
 - Devise
 - Discourse 
+
 
 ## 1. Cozy communities
 
@@ -61,7 +63,6 @@
 
 - [Клавиатурный тренажер](https://www.keybr.com/) - keybr.com
 - VIM. [1 - тренажер](https://openvim.com/), [2 - игра](https://github.com/jmoon018/PacVim)
-
 
 
 ## 2. Избранные статьи (ЕЩЕ БУДУ ДОПОЛНЯТЬ)
