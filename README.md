@@ -12,17 +12,30 @@
 
 ## 0. БАЗА. Альма-матер pro Rails dev
   
-- [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - ruby-doc.org
-- [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - rubyonrails.org
-- [Rails API Documentation - подробное описание всех классов и методов в Rails.](https://api.rubyonrails.org/) - api.rubyonrails.org
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - developer.mozilla.org
-- [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) - Топ frontend фреймворки и библиотеки
-- [PostgreSQL](https://www.postgresql.org/docs/current/), [Redis](https://redis.io/docs/latest/) - Топ БД
+- [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - **ruby-doc.org**
+- [Official Ruby Style Guide GIT](https://github.com/rubocop/ruby-style-guide), [их официальный сайт для Ruby, Rails, RSpec, Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) - **rubocop**
+- [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - **rubyonrails.org**
+- [Rails API Documentation](https://api.rubyonrails.org/) - подробное описание всех классов и методов в Rails.- **api.rubyonrails.org**
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - **developer.mozilla.org**
+- [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) - **Топ frontend фреймворки и библиотеки**
+- [PostgreSQL](https://www.postgresql.org/docs/current/), [Redis](https://redis.io/docs/latest/), [SQLite](https://www.sqlite.org/docs.html) - Т**оп БД**
 - 
 
 - 
-## 1. Для  Indie Hacker or MVP pro Rails dev
+## 1. Для  IndieHacker/MVP pro Rails dev
 
+
+
+## 1. Лучшие гемы для Rails apps
+
+
+## 1. Cozy communities
+
+1. [Rails discuss](https://discuss.rubyonrails.org/)
+
+## Просто тренажеры, чтобы повысить комфорт от работы в долгосрок
+
+- Клавиатурный тренажер для слепой печати, который я люблю. Главное - не спешить
 
 
 
