@@ -13,7 +13,7 @@
 ## 0. БАЗА. Альма-матер pro Rails dev
   
 - [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - **ruby-doc.org**
-- [Official Ruby Style Guide GIT](https://github.com/rubocop/ruby-style-guide), [их официальный сайт для Ruby, Rails, RSpec, Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) - **rubocop**
+- [Official Ruby Style Guide GIT](https://github.com/rubocop/ruby-style-guide), их официальный сайт для [Ruby, Rails, RSpec, Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) - **rubocop**
 - [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - **rubyonrails.org**
 - [Rails API Documentation](https://api.rubyonrails.org/) - подробное описание всех классов и методов в Rails.- **api.rubyonrails.org**
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - **developer.mozilla.org**
@@ -25,6 +25,10 @@
 ## 1. Для  IndieHacker/MVP pro Rails dev
 
 
+- [Kamal 2 for Rails 8](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
+- [The Turbo Rails Tutorials](https://www.hotrails.dev/) - HotRails
+- [Free Tutorials](https://pragmaticstudio.com/tutorials) by PragmaticStudio
+
 
 ## 1. Лучшие гемы для Rails apps
 
@@ -35,7 +39,8 @@
 
 ## Просто тренажеры, чтобы повысить комфорт от работы в долгосрок
 
-- Клавиатурный тренажер для слепой печати, который я люблю. Главное - не спешить
+- [Клавиатурный тренажер](https://www.keybr.com/) - keybr.com
+- VIM. [1 - тренажер](https://openvim.com/), [2 - игра](https://github.com/jmoon018/PacVim)
 
 
 
@@ -49,6 +54,11 @@
 
 - [Deploying production, staging and review apps environments automatically with Kamal on CI/CD](https://guillaumebriday.fr/deploying-review-apps-automatically-with-kamal-on-ci-cd)
 - [How I use OpenAI to translate my Rails application into multiple languages](https://guillaumebriday.fr/how-i-use-openai-to-translate-my-rails-application-into-multiple-languages)
+- [Maximizing performance in Ruby on Rails with Kafka](https://medium.com/@rrmartins/maximizing-performance-in-ruby-on-rails-with-kafka-32313ea20e9a)
+- [Ruby on Rails Design Patterns 101](https://medium.com/@slimbennasrallah_89177/ruby-on-rails-design-patterns-101-d99f43adc2b3)
+- [Simple Guide to Creating Stripe Subscriptions in Rails](https://medium.com/@rail_to_rescue/simple-guide-to-creating-stripe-subscriptions-in-rails-4bfe4e0621ed)
+- [You Don’t Know Ruby (Anymore!)](https://medium.com/@ihcnemed/you-dont-know-ruby-anymore-30da3b47d0e0)
+
 
 
 ## 3. Избранные курсы
