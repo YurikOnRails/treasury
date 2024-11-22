@@ -24,7 +24,7 @@
 - [Docker Documentation](https://docs.docker.com/) и [Docker Compose](https://docs.docker.com/compose/)  - **docs.docker.com**
 - The [Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
 - [Git книга](https://git-scm.com/book/ru/v2) с официального сайта на русском - git-scm.com
-- 
+ 
 ## 0. Продвинутый уровень - Сенсэй Rails
 
 - [Capistrano их сайт](https://github.com/capistrano/capistrano/blob/master/README.md)  и[ документация в GIT](https://github.com/capistrano/capistrano/blob/master/README.md)- a remote server automation and deployment tool written in Ruby
