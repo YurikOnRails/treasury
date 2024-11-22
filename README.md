@@ -10,32 +10,52 @@
 - Не бояться просить помощи в случае затруднений. Если сталкиваетесь с проблемой, которую не можете решить за разумное время — не стесняйтесь обратиться за помощью.
 - Если учеба «не лезет» — сделайте небольшой перерыв.
 
-## 0. БАЗА. Альма-матер pro Rails dev
+## 0. БАЗА. Альма-матер Pro Rails Dev
   
 - [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - **ruby-doc.org**
 - [Official Ruby Style Guide GIT](https://github.com/rubocop/ruby-style-guide), их официальный сайт для [Ruby, Rails, RSpec, Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) - **rubocop**
 - [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - **rubyonrails.org**
+- НА РУССКОМ [ДОКУМЕНТАЦИЯ RAILS](https://rusrails.ru/) - rusrails.ru
 - [Rails API Documentation](https://api.rubyonrails.org/) - подробное описание всех классов и методов в Rails.- **api.rubyonrails.org**
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - **developer.mozilla.org**
 - [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) - **Топ frontend фреймворки и библиотеки**
 - [PostgreSQL](https://www.postgresql.org/docs/current/), [Redis](https://redis.io/docs/latest/), [SQLite](https://www.sqlite.org/docs.html) - Т**оп БД**
+- [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html) - **guides.rubyonrails.org**
+- [Docker Documentation](https://docs.docker.com/) и [Docker Compose](https://docs.docker.com/compose/)  - **docs.docker.com**
+- The [Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
+- [Git книга](https://git-scm.com/book/ru/v2) с официального сайта на русском - git-scm.com
 - 
+## 0. Продвинутый уровень - Сенсэй Rails
 
-- 
+- [Capistrano их сайт](https://github.com/capistrano/capistrano/blob/master/README.md)  и[ документация в GIT](https://github.com/capistrano/capistrano/blob/master/README.md)- a remote server automation and deployment tool written in Ruby
+- [Использование Rails для API-приложений](https://rusrails.ru/api-app) гайд на РУССКОМ
+- [RSpec](https://rspec.info/documentation/3.13/rspec-core/) - стандарт в тестировании
+- [GraphQL](https://graphql.org/learn/) — современный стандарт для создания гибких API
+- [JSON API для Ruby](https://jsonapi.org/implementations/#server-libraries-ruby) — стандарт для построения RESTful API
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) — список самых распространенных уязвимостей безопасности
+- Безопасность в Rails Apps: [официальная документация ](https://guides.rubyonrails.org/security.html#introduction) и сторонняя - [Security Audit Checklist 2025](https://blog.railsforgedev.com/ruby-on-rails-security-audit-checklist-2025-free-template)
+- [GitHub Actions documentation](https://docs.github.com/en/actions) - автоматизация CI/CD иными словами деплой
+
 ## 1. Для  IndieHacker/MVP pro Rails dev
-
 
 - [Kamal 2 for Rails 8](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
 - [The Turbo Rails Tutorials](https://www.hotrails.dev/) - HotRails
 - [Free Tutorials](https://pragmaticstudio.com/tutorials) by PragmaticStudio
+- [Turbo](https://turbo.hotwired.dev/handbook/introduction) - the speed of a single-page web application without having to write any JavaScript - HotWire
+- [Stimulus](https://stimulus.hotwired.dev/handbook/introduction) - A modest JavaScript framework for the HTML you already have - HotWire
+- [Native](https://native.hotwired.dev/overview/how-it-works) - for building native mobile apps - HotWire
+- [TailwindCSS](https://tailwindcss.com/docs/installation) - для быстрого и красивого фронтенда MVP
 
 
 ## 1. Лучшие гемы для Rails apps
 
+- Devise
+- Discourse 
 
 ## 1. Cozy communities
 
 1. [Rails discuss](https://discuss.rubyonrails.org/)
+2. [Hotwire Discussion](https://discuss.hotwired.dev/)
 
 ## Просто тренажеры, чтобы повысить комфорт от работы в долгосрок
 
@@ -58,6 +78,7 @@
 - [Ruby on Rails Design Patterns 101](https://medium.com/@slimbennasrallah_89177/ruby-on-rails-design-patterns-101-d99f43adc2b3)
 - [Simple Guide to Creating Stripe Subscriptions in Rails](https://medium.com/@rail_to_rescue/simple-guide-to-creating-stripe-subscriptions-in-rails-4bfe4e0621ed)
 - [You Don’t Know Ruby (Anymore!)](https://medium.com/@ihcnemed/you-dont-know-ruby-anymore-30da3b47d0e0)
+- [Getting Started with Hotwire on Rails 7](https://medium.com/@muaad/getting-started-with-hotwire-on-rails-7-a-beginners-guide-to-building-reactive-web-applications-f80742b331b1): A Beginner’s Guide to Building Reactive Web Applications
 
 
 
@@ -72,12 +93,10 @@
 - [Курсы от hexlet.io](https://ru.hexlet.io/courses_ruby) - Hexlet (paid monthly subscription)
 
 
-## 4. Избранные книги
+## 4. Избранные книги ПОЗЖЕ ЕЩЕ ДОПИШУ
 
 - **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
-- ** Sandi Metz** — *PRACTICAL OBJECT-ORIENTED DESIGN IN RUBY* — про объектное проектирование приложений
-- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
-- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
+- **Sandi Metz** — *PRACTICAL OBJECT-ORIENTED DESIGN IN RUBY* — про объектное проектирование приложений
 
 
 ## 5. Избранные видео
