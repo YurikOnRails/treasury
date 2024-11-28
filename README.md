@@ -50,8 +50,10 @@
 
 ## 1. Лучшие гемы для Rails apps БУДУ ЕЩЕ ДОПОЛНЯТЬ
 
-- Devise
-- Discourse 
+- Devise. Популярен для аутентификации.
+- Discourse. Топ для всевозможных форумов. 
+- Ffaker. Это новая версия от старого faker для временных данных пока проект разрабатывается.
+- Spina CMS. Это простая современная CMS для блогов
 
 
 ## 1. Cozy communities
@@ -80,6 +82,10 @@
 - [Simple Guide to Creating Stripe Subscriptions in Rails](https://medium.com/@rail_to_rescue/simple-guide-to-creating-stripe-subscriptions-in-rails-4bfe4e0621ed)
 - [You Don’t Know Ruby (Anymore!)](https://medium.com/@ihcnemed/you-dont-know-ruby-anymore-30da3b47d0e0)
 - [Getting Started with Hotwire on Rails 7](https://medium.com/@muaad/getting-started-with-hotwire-on-rails-7-a-beginners-guide-to-building-reactive-web-applications-f80742b331b1): A Beginner’s Guide to Building Reactive Web Applications
+  ---------FREE UI TAILWING CSS KIT---------
+- [Free Tailwind Components For Your Next Project](https://dev.to/narottam04/free-tailwind-components-for-your-next-project-2gka)
+- [10 Free Tailwind CSS UI Kits & Component Libraries 2024](https://daily.dev/blog/10-free-tailwind-css-ui-kits-and-component-libraries-2024)
+- [civictheme.io ](https://www.civictheme.io/)- Альтернатива TailWingCSS выглядит более корпоративно(использует RP при оплате)
 
 
 
