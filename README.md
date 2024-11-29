@@ -100,6 +100,7 @@
 - [Курсы от hexlet.io](https://ru.hexlet.io/courses_ruby) - Hexlet (paid monthly subscription)
 
 
+
 ## 4. Избранные книги ПОЗЖЕ ЕЩЕ ДОПИШУ
 
 - **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
@@ -130,5 +131,12 @@
 2. Как проектируют Web App перед реализацией - ТЗ
 
 ## Софт для проектирование приложений перед разработкой
+
 - Lucidchart
 - draw.io
+
+## Это просто ссылки которые оказались для меня полезными
+
+- Просто PDF с оновами [по рубикам](https://launchschool.com/books/githttps://www.rubyguides.com/wp-content/uploads/2019/11/ruby-reference-2019-optin.pdf)
+- Классная статься [про блоки](https://online.pragmaticstudio.com/tour/courses/ruby-blocks/steps/4)
+- Этот сайт мне просто понравился про рубин от [rubyguides](https://www.rubyguides.com)
