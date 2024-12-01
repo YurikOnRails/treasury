@@ -109,7 +109,7 @@
 
 ## 5. Избранные видео
 
-- **А. Кузьмин** — *Память и Ruby* — [Смотреть на YouTube](https://www.youtube.com/watch?v=D0vbuIDOV4c)
+- ЭТО ПОКА ВРЕМЕННО ЗДЕСЬ - **А. Кузьмин** — *Память и Ruby* — [Смотреть на YouTube](https://www.youtube.com/watch?v=D0vbuIDOV4c)
 
 ## 6. Избранные сайты для решения задач
 
