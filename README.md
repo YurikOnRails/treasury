@@ -98,6 +98,7 @@
 - [GoRails - полезные видео уроки про Rails](https://gorails.com/series) — GoRails (paid monthly subscription)
 - [Крайне любопытный проект для изучения языка для опытных юзеров](https://www.rubykoans.com/) — Ruby Koans
 - [Курсы от hexlet.io](https://ru.hexlet.io/courses_ruby) - Hexlet (paid monthly subscription)
+- [От Романа Пушкина ](https://rubyschool.us/) полный бесплатный курс
 
 
 
