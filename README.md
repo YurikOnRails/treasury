@@ -24,6 +24,8 @@
 - [Docker Documentation](https://docs.docker.com/) и [Docker Compose](https://docs.docker.com/compose/)  - **docs.docker.com**
 - The [Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
 - [Git книга](https://git-scm.com/book/ru/v2) с официального сайта на русском - git-scm.com
+
+- [Качественная книга ](https://thoughtbot.com/ruby-science/duplicated-code.html)по хорошему стилю кода на Ruby с примерами!!! - **thoughtbot.com**
  
 ## 0. Продвинутый уровень - Сенсэй Rails
 
