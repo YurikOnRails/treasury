@@ -22,7 +22,7 @@
 - [PostgreSQL](https://www.postgresql.org/docs/current/), [Redis](https://redis.io/docs/latest/), [SQLite](https://www.sqlite.org/docs.html) - Т**оп БД**
 - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html) - **guides.rubyonrails.org**
 - [Docker Documentation](https://docs.docker.com/) и [Docker Compose](https://docs.docker.com/compose/)  - **docs.docker.com**
-- The [Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
+- [The Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
 - [Git книга](https://git-scm.com/book/ru/v2) с официального сайта на русском - git-scm.com
 
 - [Качественная книга ](https://thoughtbot.com/ruby-science/duplicated-code.html)по хорошему стилю кода на Ruby с примерами!!! - **thoughtbot.com**
