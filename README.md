@@ -128,7 +128,7 @@
 ### Ссылки на крайне интересные материалы для подготовки к собедеования от Junior до Senior
 
 - [ОГРОМНЫЙ СПИСОК ВОПРОСОВ](https://itvdn.com/ru/blog/article/ruby-500-questions#2olptzg8cdk4) от Juinior до Senior уровня от практиков. Классная подборка. Рекомендую!!!
-- Это уже [англоязычный ресурс](https://www.geeksforgeeks.org/ruby-on-rails-interview-questions/) вопросов с ответами
+- [Англоязычный ресурс](https://www.geeksforgeeks.org/ruby-on-rails-interview-questions/) вопросов с ответами на собеседования
             
 ## Систем дизайн
 
