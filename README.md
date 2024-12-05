@@ -25,7 +25,7 @@
 - [The Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
 - [Git книга](https://git-scm.com/book/ru/v2) с официального сайта на русском - git-scm.com
 
-- [Качественная книга ](https://thoughtbot.com/ruby-science/duplicated-code.html)по хорошему стилю кода на Ruby с примерами!!! - **thoughtbot.com**
+- [Качественная книга ](https://thoughtbot.com/ruby-science/duplicated-code.html)по хорошему стилю кода на Ruby с примерами!!! Еще описывает рядовые ошибки плохого кода - **thoughtbot.com**
  
 ## 0. Продвинутый уровень - Сенсэй Rails
 
@@ -56,6 +56,7 @@
 - Discourse. Топ для всевозможных форумов. 
 - Ffaker. Это новая версия от старого faker для временных данных пока проект разрабатывается.
 - Spina CMS. Это простая современная CMS для блогов
+- Strong Migrations. Для безопасных миграций и еще предоставляет подсказки для исправления стремных ситуаций
 
 
 ## 1. Cozy communities
@@ -106,13 +107,13 @@
 
 ## 4. Избранные книги ПОЗЖЕ ЕЩЕ ДОПИШУ
 
-- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — базовая книга по Ruby
-- **Sandi Metz** — *PRACTICAL OBJECT-ORIENTED DESIGN IN RUBY* — про объектное проектирование приложений
+- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — довольно простая книга по основам Ruby. Совсем для начинающих
+- **Sandi Metz** — *PRACTICAL OBJECT-ORIENTED DESIGN IN RUBY* — про объектное **проектирование** приложений
 
 
 ## 5. Избранные видео
 
-- ЭТО ПОКА ВРЕМЕННО ЗДЕСЬ - **А. Кузьмин** — *Память и Ruby* — [Смотреть на YouTube](https://www.youtube.com/watch?v=D0vbuIDOV4c)
+- Презентация DHH Rails 8. Это больше шоу, но мне, действительно, понравилось — [Смотреть на YouTube](https://www.youtube.com/watch?v=-cEn_83zRFw)
 
 ## 6. Избранные сайты для решения задач
 
