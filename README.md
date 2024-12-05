@@ -27,7 +27,7 @@
 
 - [Качественная книга ](https://thoughtbot.com/ruby-science/duplicated-code.html)по хорошему стилю кода на Ruby с примерами!!! Еще описывает рядовые ошибки плохого кода - **thoughtbot.com**
  
-## 0. Продвинутый уровень - Сенсэй Rails
+## 0+. Продвинутый уровень - Сенсэй Rails
 
 - [Capistrano их сайт](https://github.com/capistrano/capistrano/blob/master/README.md)  и[ документация в GIT](https://github.com/capistrano/capistrano/blob/master/README.md)- a remote server automation and deployment tool written in Ruby
 - [Использование Rails для API-приложений](https://rusrails.ru/api-app) гайд на РУССКОМ
@@ -39,7 +39,7 @@
 - [GitHub Actions documentation](https://docs.github.com/en/actions) - автоматизация CI/CD иными словами деплой
 
   
-## 1. Для  IndieHacker/MVP pro Rails dev
+## 0++. Для  IndieHacker/MVP pro Rails dev
 
 - [Kamal 2 for Rails 8](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
 - [The Turbo Rails Tutorials](https://www.hotrails.dev/) - HotRails
@@ -59,24 +59,24 @@
 - Strong Migrations. Для безопасных миграций и еще предоставляет подсказки для исправления стремных ситуаций
 
 
-## 1. Cozy communities
+## 2. Cozy communities
 
 1. [Rails discuss](https://discuss.rubyonrails.org/)
 2. [Hotwire Discussion](https://discuss.hotwired.dev/)
 
-## Просто тренажеры, чтобы повысить комфорт от работы в долгосрок
+## 3. Просто тренажеры, чтобы повысить комфорт от работы в долгосрок
 
-- [Клавиатурный тренажер](https://www.keybr.com/) - keybr.com
+- [Клавиатурный тренажер](https://www.keybr.com/). Это мой любимый. - keybr.com.
 - VIM. [1 - тренажер](https://openvim.com/), [2 - игра](https://github.com/jmoon018/PacVim)
 
 
-## 2. Избранные статьи (ЕЩЕ БУДУ ДОПОЛНЯТЬ)
+## 4. Избранные статьи на русском (ЕЩЕ БУДУ ВЕРОЯТНО ДОПОЛНЯТЬ)
 
 - [Почему я рекомендую Ruby on Rails новичкам в 2024 году?](https://habr.com/ru/articles/794476/) - Хабр
 - [В Ruby появилась поддержка WebAssemblу: что это значит?](https://habr.com/ru/companies/skillfactory/articles/717130/) - Хабр
 
 
-### Англоязычные статьи
+### 5. Англоязычные статьи
 
 - [Deploying production, staging and review apps environments automatically with Kamal on CI/CD](https://guillaumebriday.fr/deploying-review-apps-automatically-with-kamal-on-ci-cd)
 - [How I use OpenAI to translate my Rails application into multiple languages](https://guillaumebriday.fr/how-i-use-openai-to-translate-my-rails-application-into-multiple-languages)
@@ -85,6 +85,7 @@
 - [Simple Guide to Creating Stripe Subscriptions in Rails](https://medium.com/@rail_to_rescue/simple-guide-to-creating-stripe-subscriptions-in-rails-4bfe4e0621ed)
 - [You Don’t Know Ruby (Anymore!)](https://medium.com/@ihcnemed/you-dont-know-ruby-anymore-30da3b47d0e0)
 - [Getting Started with Hotwire on Rails 7](https://medium.com/@muaad/getting-started-with-hotwire-on-rails-7-a-beginners-guide-to-building-reactive-web-applications-f80742b331b1): A Beginner’s Guide to Building Reactive Web Applications
+
   ---------FREE UI TAILWING CSS KIT---------
 - [Free Tailwind Components For Your Next Project](https://dev.to/narottam04/free-tailwind-components-for-your-next-project-2gka)
 - [10 Free Tailwind CSS UI Kits & Component Libraries 2024](https://daily.dev/blog/10-free-tailwind-css-ui-kits-and-component-libraries-2024)
@@ -92,7 +93,7 @@
 
 
 
-## 3. Избранные курсы
+## 6. Избранные курсы
 
 - [Путь Rubyrush. Море интересных задач](https://rubyrush.ru/steps) - Rubyrush
 - [Ruby/Rails Concepts and course](https://www.codecademy.com/resources/docs/ruby) — Codecademy
@@ -105,20 +106,20 @@
 
 
 
-## 4. Избранные книги ПОЗЖЕ ЕЩЕ ДОПИШУ
+## 7. Избранные книги ПОЗЖЕ ЕЩЕ ДОПИШУ
 
-- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — довольно простая книга по основам Ruby. Совсем для начинающих
+- **Роман Пушкин** — *Ruby для романтиков от новичка до профессионала* — довольно простая книга по основам Ruby, но с хорошей структурой. Для юных падаванов.
 - **Sandi Metz** — *PRACTICAL OBJECT-ORIENTED DESIGN IN RUBY* — про объектное **проектирование** приложений
 
 
-## 5. Избранные видео
+## 8. Избранные видео
 
-- Презентация DHH Rails 8. Это больше шоу, но мне, действительно, понравилось — [Смотреть на YouTube](https://www.youtube.com/watch?v=-cEn_83zRFw)
+- Презентация DHH Rails 8. Это больше шоу, но мне, действительно, очень понравилось — [Смотреть на YouTube](https://www.youtube.com/watch?v=-cEn_83zRFw)
 
-## 6. Избранные сайты для решения задач
+## 9. Избранные сайты для решения задач
 
+- [https://codewars.com/](https://codewars.com/) - Крайне рекомендую!!! Как в игру играешь.
 - [https://codeforces.com/](https://codeforces.com/)
-- [https://codewars.com/](https://codewars.com/)
 - [https://leetcode.com/](https://leetcode.com/)
 - [https://replit.com/](https://replit.com/)
 
@@ -126,19 +127,19 @@
 
 ### Ссылки на крайне интересные материалы для подготовки к собедеования от Junior до Senior
 
-- [ОГРОМНЫЙ СПИСОК ВОПРОСОВ](https://itvdn.com/ru/blog/article/ruby-500-questions#2olptzg8cdk4) от простых до сложных от практиков
+- [ОГРОМНЫЙ СПИСОК ВОПРОСОВ](https://itvdn.com/ru/blog/article/ruby-500-questions#2olptzg8cdk4) от Juinior до Senior уровня от практиков. Классная подборка. Рекомендую!!!
 - Это уже [англоязычный ресурс](https://www.geeksforgeeks.org/ruby-on-rails-interview-questions/) вопросов с ответами
             
 ## Систем дизайн
 
-1. Уметь спроектировать систему согласно заданию.
-2. Как проектируют Web App перед реализацией - ТЗ
+1. Уметь спроектировать систему согласно заданию - В этом хочу получше разобраться.
+2. Как проектируют Web App перед реализацией - ТЗ? Это больше вопрос адресую сам себе. Имеется ввиду, существуют ли САПР, как у инженеров в пром секторе, но для Web App? Еще буду разбираться...
 
 ## Софт для проектирование приложений перед разработкой
 
-- Lucidchart
-- draw.io
-
+- **Lucidchart**. Мне показался сложным и перегруженным
+- **Draw.io**. Простой и удобный. Интуитивно в нем спроектировал в ООП стиле классы, методы и тп
+ 
 ## Это просто ссылки которые оказались для меня полезными
 
 - Просто PDF с оновами [по рубикам](https://launchschool.com/books/githttps://www.rubyguides.com/wp-content/uploads/2019/11/ruby-reference-2019-optin.pdf)
