@@ -39,7 +39,7 @@
 - [GitHub Actions documentation](https://docs.github.com/en/actions) - автоматизация CI/CD иными словами деплой
 
   
-## 0++. Для  IndieHacker/MVP pro Rails dev
+## 0++. Для  IndieHacker/MVP pro Rails dev Ultra
 
 - [Kamal 2 for Rails 8](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
 - [The Turbo Rails Tutorials](https://www.hotrails.dev/) - HotRails
