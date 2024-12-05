@@ -142,6 +142,5 @@
  
 ## Это просто ссылки которые оказались для меня полезными
 
-- Просто PDF с оновами [по рубикам](https://launchschool.com/books/githttps://www.rubyguides.com/wp-content/uploads/2019/11/ruby-reference-2019-optin.pdf)
 - Классная статься [про блоки](https://online.pragmaticstudio.com/tour/courses/ruby-blocks/steps/4)
 - Этот сайт мне просто понравился про рубин от [rubyguides](https://www.rubyguides.com)
