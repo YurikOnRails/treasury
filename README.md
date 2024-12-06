@@ -15,7 +15,11 @@
 - [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - **ruby-doc.org**
 - [Official Ruby Style Guide GIT](https://github.com/rubocop/ruby-style-guide), их официальный сайт для [Ruby, Rails, RSpec, Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) - **rubocop**
 - [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - **rubyonrails.org**
-- [ДОКУМЕНТАЦИЯ RAILS](https://rusrails.ru/) НА РУССКОМ!!! - rusrails.ru
+- 
+- [ДОКУМЕНТАЦИЯ RAILS](https://rusrails.ru/) НА РУССКОМ!!! - rusrails.ru - ВЫУЧИТЬ!!!
+- [Rails Style Guide](https://github.com/rubocop/rails-style-guide) - Стиль кода для Rails - ВЫУЧИТЬ!!!
+- [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide) - Стиль кода на Ruby. Это надо уже знать!!!(Знаю, что дублируется, но это важно) 
+- 
 - [Rails API Documentation](https://api.rubyonrails.org/) - подробное описание всех классов и методов в Rails.- **api.rubyonrails.org**
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - **developer.mozilla.org**
 - [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) - **Топ frontend фреймворки и библиотеки**
