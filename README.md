@@ -55,6 +55,8 @@
 
 
 ## 1. Лучшие гемы для Rails apps БУДУ ЕЩЕ ДОПОЛНЯТЬ
+
+- gem "rails-erd". Этот гем генерирует диаграммы отношений между моделями
 - gem [rails_devtools](https://github.com/beaucouplus/rails_devtools). Совсем новый, но очень классный гем на время разработки.
 - gem [Typelizer](https://github.com/skryukov/typelizer) от злых Марсиан для TypeScript
 - Devise. Популярен для аутентификации.
