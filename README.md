@@ -53,10 +53,17 @@
 - [Native](https://native.hotwired.dev/overview/how-it-works) - for building native mobile apps - HotWire
 - [TailwindCSS](https://tailwindcss.com/docs/installation) - для быстрого и красивого фронтенда MVP
 
+## 0+++. Рекомендации от Evil Martians для эффективной разработки фронтенда
+
+- [TailwindCSS](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
+- [Hotwire](https://stimulus.hotwired.dev/) - Turbo frontend for simple/CRUD pages
+- [Turbo Mount](https://evilmartians.com/chronicles/the-art-of-turbo-mount-hotwire-meets-modern-js-frameworks) - for a standalone React/Svelte/Vue component
+- [Inertia.js](https://inertiajs.com/) - Build single-page apps, without building an API
+- [Vite Ruby](https://vite-ruby.netlify.app/) - Bringing joy to your frontend experience
 
 ## 1. Лучшие гемы для Rails apps БУДУ ЕЩЕ ДОПОЛНЯТЬ
 
-- gem "rails-erd". Этот гем генерирует диаграммы отношений между моделями
+- gem "rails-erd". Этот гем генерирует диаграммы отношений между моделями.
 - gem [rails_devtools](https://github.com/beaucouplus/rails_devtools). Совсем новый, но очень классный гем на время разработки.
 - gem [Typelizer](https://github.com/skryukov/typelizer) от злых Марсиан для TypeScript
 - Devise. Популярен для аутентификации.
@@ -64,7 +71,6 @@
 - Ffaker. Это новая версия от старого faker для временных данных пока проект разрабатывается.
 - Spina CMS. Это простая современная CMS для блогов
 - Strong Migrations. Для безопасных миграций и еще предоставляет подсказки для исправления стремных ситуаций
-
 
 ## 2. Cozy communities
 
