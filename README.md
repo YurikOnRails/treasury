@@ -55,7 +55,7 @@
 
 ## 0+++. Рекомендации от Evil Martians для эффективной разработки фронтенда
 
-- [TailwindCSS](https://kamal-deploy.org/) - Deploy web apps anywhere and simple
+- [TailwindCSS](https://kamal-deploy.org/) - post CSS
 - [Hotwire](https://stimulus.hotwired.dev/) - Turbo frontend for simple/CRUD pages
 - [Turbo Mount](https://evilmartians.com/chronicles/the-art-of-turbo-mount-hotwire-meets-modern-js-frameworks) - for a standalone React/Svelte/Vue component
 - [Inertia.js](https://inertiajs.com/) - Build single-page apps, without building an API
