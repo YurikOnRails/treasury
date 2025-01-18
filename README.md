@@ -2,32 +2,76 @@
 
 ##  Принципы самообучения
 
-- Учиться нужно **асинхронно**: не стоит хвататься за одну большую тему, как изучение всего Ruby или всей теории баз данных. Лучше набирать из разных направлений понемногу — немного Ruby, немного SQL и так далее.
-- Освоить работу с **Git**, **отладчиком** (Debugger) и научиться писать простейшие тесты.
-- Заниматься **регулярно**! Лучше заниматься меньше, но чаще, чем редко, но много.
-- **Решать** (или пытаться решить) хотя бы одну задачу в день с **Leetcode** или аналогичных сайтов.
-- Соблюдать режим труда и отдыха. Это важно для продуктивности.
-- Не бояться просить помощи в случае затруднений. Если сталкиваетесь с проблемой, которую не можете решить за разумное время — не стесняйтесь обратиться за помощью.
-- Если учеба «не лезет» — сделайте небольшой перерыв.
+ - Регулярность, регулярность, регулярность
 
 ## 0. БАЗА. Альма-матер Pro Rails Dev
   
-- [Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) - **ruby-doc.org**
-- [Official Ruby Style Guide GIT](https://github.com/rubocop/ruby-style-guide), их официальный сайт для [Ruby, Rails, RSpec, Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) - **rubocop**
-- [Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) - **rubyonrails.org**
-- 
-- [ДОКУМЕНТАЦИЯ RAILS](https://rusrails.ru/) НА РУССКОМ!!! - rusrails.ru - ВЫУЧИТЬ!!!
-- [Rails Style Guide](https://github.com/rubocop/rails-style-guide) - Стиль кода для Rails - ВЫУЧИТЬ!!!
-- [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide) - Стиль кода на Ruby. Это надо уже знать!!!(Знаю, что дублируется, но это важно) 
-- 
-- [Rails API Documentation](https://api.rubyonrails.org/) - подробное описание всех классов и методов в Rails.- **api.rubyonrails.org**
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - **developer.mozilla.org**
-- [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) - **Топ frontend фреймворки и библиотеки**
-- [PostgreSQL](https://www.postgresql.org/docs/current/), [Redis](https://redis.io/docs/latest/), [SQLite](https://www.sqlite.org/docs.html) - Т**оп БД**
-- [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html) - **guides.rubyonrails.org**
-- [Docker Documentation](https://docs.docker.com/) и [Docker Compose](https://docs.docker.com/compose/)  - **docs.docker.com**
-- [The Ruby language-specific guide](https://docs.docker.com/guides/ruby/) teaches you how to containerize a Ruby on Rails application using Docker - **docs.docker.com**
-- [Git книга](https://git-scm.com/book/ru/v2) с официального сайта на русском - git-scm.com
+# 📚 Полезные ресурсы для разработки на Ruby и Ruby on Rails
+
+Добро пожаловать в подборку полезных ссылок и документов для Ruby, Ruby on Rails и связанных технологий. Здесь собраны материалы, которые помогут вам развиваться и оставаться в курсе актуальной информации. 🚀
+
+---
+
+## 🛠️ Ruby и Ruby on Rails
+
+- [📖 Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) — **ruby-doc.org**
+- [🔧 Официальный Ruby Style Guide (GitHub)](https://github.com/rubocop/ruby-style-guide)  
+  Также посмотрите их сайт для [Ruby, Rails, RSpec и Minitest](https://docs.rubocop.org/rubocop/1.68/index.html#) — **rubocop**
+- [📘 Ruby on Rails Guides (v8.0.0)](https://guides.rubyonrails.org/) — **rubyonrails.org**
+- [📜 ДОКУМЕНТАЦИЯ RAILS на русском](https://rusrails.ru/) — **rusrails.ru**  
+  💡 *Обязательно изучить!*
+
+---
+
+## ✍️ Стиль кода
+
+- [🎨 Rails Style Guide](https://github.com/rubocop/rails-style-guide) — **Стиль кода для Rails**  
+  💡 *Не забудьте выучить!*
+- [🎨 Ruby Style Guide](https://github.com/rubocop/ruby-style-guide) — **Стиль кода для Ruby**  
+  💡 *Это базовые знания, которые нужно освоить!*
+
+---
+
+## 📖 Полезная документация
+
+- [📚 Rails API Documentation](https://api.rubyonrails.org/) — подробное описание всех классов и методов в Rails. **api.rubyonrails.org**
+- [📚 Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html) — **guides.rubyonrails.org**
+
+---
+
+## 🌐 Веб-разработка
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) — **developer.mozilla.org**
+- [React](https://react.dev/learn), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/docs/installation) — **Топ фронтенд-фреймворки и библиотеки**
+
+---
+
+## 🗄️ Базы данных
+
+- [PostgreSQL](https://www.postgresql.org/docs/current/)  
+- [Redis](https://redis.io/docs/latest/)  
+- [SQLite](https://www.sqlite.org/docs.html)  
+  **Лучшие решения для управления данными**
+
+---
+
+## 🐳 Docker
+
+- [Docker Documentation](https://docs.docker.com/)  
+- [Docker Compose](https://docs.docker.com/compose/)  
+- [The Ruby language-specific guide](https://docs.docker.com/guides/ruby/)  
+  💡 *Узнайте, как контейнеризировать приложение на Ruby on Rails с помощью Docker.* — **docs.docker.com**
+
+---
+
+## 🔧 Git
+
+- [Git книга](https://git-scm.com/book/ru/v2) — официальное руководство на русском языке. **git-scm.com**
+
+---
+
+💡 Если вы хотите что-то добавить или обсудить, не стесняйтесь вносить изменения через pull request! 😊
+
 
 - [Качественная книга ](https://thoughtbot.com/ruby-science/duplicated-code.html)по хорошему стилю кода на Ruby с примерами!!! Еще описывает рядовые ошибки плохого кода - **thoughtbot.com**
  
