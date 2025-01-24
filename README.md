@@ -1,5 +1,7 @@
 # 🎓 БАЗА: Альма-матер Pro Rails Dev
 
+ВОПРОСЫ ДЛЯ САМОПРОВЕРКИ ОТ [HEXLET](https://github.com/Hexlet/ru-interview-questions/blob/main/questions/rails.md)
+
 ## 📚 Основы Ruby и Ruby on Rails
 
 - [🔗 Официальная документация по Ruby 3.3.5](https://ruby-doc.org/3.3.5/) — **ruby-doc.org**  
