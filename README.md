@@ -1,6 +1,6 @@
 # 🎓 БАЗА: Альма-матер Pro Rails Dev
 
-ВОПРОСЫ ДЛЯ САМОПРОВЕРКИ ОТ [HEXLET](https://github.com/Hexlet/ru-interview-questions/blob/main/questions/rails.md) и [каких-то ПРАКТИКОВ](https://itvdn.com/ru/blog/article/ruby-500-questions#2olptzg8cdk4)
+ВОПРОСЫ ДЛЯ САМОПРОВЕРКИ ОТ [HEXLET](https://github.com/Hexlet/ru-interview-questions/blob/main/questions/rails.md) и каких-то [ПРАКТИКОВ](https://itvdn.com/ru/blog/article/ruby-500-questions#2olptzg8cdk4)
 
 ## 📚 Основы Ruby и Ruby on Rails
 
