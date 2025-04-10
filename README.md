@@ -15,8 +15,10 @@
 
 - [🎨 Ruby Style Guide](https://github.com/rubocop/ruby-style-guide) — стандарты написания кода на Ruby.  
   💡 *Это базовые знания, которые нужно выучить!*
-- [🎨 Rails Style Guide](https://github.com/rubocop/rails-style-guide) — рекомендации по стилю для Rails.  
+- [🎨 Rails Style Guide](https://github.com/rubocop/rails-style-guide) — рекомендации по стилю для Rails.
   💡 *Важный документ для написания качественного кода.*
+  - [🎨 Rails Style Guide](https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md) — Руби: руководство по стилю оформления на русском
+  💡 *ДЛЯ СТАРОВЕРОВ СТАЙЛГАЙД НА РУССКОМ*
 
 ---
 
@@ -190,7 +192,11 @@
 - [🌊 Путь Rubyrush: море интересных задач](https://rubyrush.ru/steps) — Rubyrush  
 - [💡 Ruby/Rails Concepts and Course](https://www.codecademy.com/resources/docs/ruby) — Codecademy  
 - [📖 Ruby: первое знакомство](https://stepik.org/course/87996/syllabus?search=5931636595) — Stepic
-- [📖 Ryby. Бесплатный курс для начинающих](https://code-basics.com/ru/languages/ruby) — Code Basics бесплатный open source курс по основам от Hexlet
+- [🛠️ Ryby. Бесплатный курс для начинающих](https://code-basics.com/ru/languages/ruby) — Code Basics бесплатный open source курс по основам от Hexlet
+- [🚀 Емкий курс по Rails](https://www.tutorialspoint.com/ruby-on-rails/index.htm) — По сути самая выжимка по основам Rails
+
+
+https://www.tutorialspoint.com/ruby-on-rails/index.htm
 
 
 ### 📽️ Объемные курсы на много часов
@@ -243,7 +249,14 @@
 - **Lucidchart** — Мне показался перегруженным.
 - **Draw.io** — Простой и удобный инструмент. Интуитивно проектировал приложение в ООП стиле, создавая классы, методы и т.д.
 
-## Полезные ссылки 🔗
+## Всесильные алгоритмы на ruby🔗
+
+- Sorting Algorithms with Ruby [DEV.TO](https://dev.to/daviducolo/sorting-algorithms-with-ruby-4o18)
+- Алгоритмы и структуры данных в видео формате [YouTube: Ilya Krukowski](https://www.youtube.com/playlist?list=PLWlFXymvoaJ-Q8FyOj9SQ3Eoog5Nkv0lI)
+- Грокаем алгоритмы, примеры на всех основных языках [Github](https://github.com/egonSchiele/grokking_algorithms)
+- «Подготовка к алгоритмическому собеседованию» от Яндекс Практикума [Yandex.Practicum](https://start.practicum.yandex/algorithms-interview)
+
+## Полезные рандомные ссылки 🔗
 
 - Статья о **блоках** в Ruby на [Pragmatic Studio](https://online.pragmaticstudio.com/tour/courses/ruby-blocks/steps/4)
 - Интересный сайт о Ruby от [RubyGuides](https://www.rubyguides.com)
