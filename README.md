@@ -1,7 +1,8 @@
 # 🎓 БАЗА: Альма-матер Pro Rails Dev
 
 ВОПРОСЫ ДЛЯ САМОПРОВЕРКИ ОТ [HEXLET](https://github.com/Hexlet/ru-interview-questions/blob/main/questions/rails.md) и каких-то [ПРАКТИКОВ](https://itvdn.com/ru/blog/article/ruby-500-questions#2olptzg8cdk4).
-Дополнтельно с ответами - [Ruby on Rails Technical Interview Questions](https://github.com/gardeziburhan/rails_interview_questions)
+
+Дополнтельно на англ. с ответами - [Ruby on Rails Technical Interview Questions](https://github.com/gardeziburhan/rails_interview_questions)
 
 ## 📚 Основы Ruby и Ruby on Rails!!!
 
