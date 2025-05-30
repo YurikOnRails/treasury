@@ -91,11 +91,7 @@
 
 - [📦 Введение в Rabbit MQ для Ruby on Rails](https://www.rabbitmq.com/tutorials/tutorial-one-ruby) — официальный для Ruby
 - [📡 Построение сервис-ориентированной архитектуры на Rails + Kafka](https://habr.com/ru/articles/450028/) — Введение в Kafka с Rails
-- [💡 RabbitMQ для Rails разработчиков](https://github.com/zendesk/ruby-kafka) — Введение в Kafka с Rails
 - [⚡ Эффективный фреймворк Kafka для Rails в 2025](https://github.com/karafka/karafka) — Популярен и быстр
-
-
-
 
 ---
 
